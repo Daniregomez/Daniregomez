@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Daniel Restrepo
 
-<!--
-**Daniregomez/Daniregomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desarrollador Full Stack | 📊 Ingeniero de Datos | 🚀 Entusiasta de la Tecnología Financiera
 
-Here are some ideas to get you started:
+Apasionado por crear soluciones tecnológicas que transforman datos complejos en información valiosa. Siempre en busca del próximo desafío para expandir mis habilidades y conocimientos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+
+```python
+tech_stack = {
+    "Backend": ["Python", "Django", "Flask"],
+    "Frontend": ["JavaScript", "TypeScript", "Vue.js", "React"],
+    "Bases de Datos": ["SQL", "NoSQL"],
+    "Cloud": ["AWS"],
+    "DevOps": ["Docker", "Git"],
+    "Análisis de Datos": ["Dash", "Plotly"],
+    "Desktop": ["PyQt"]
+}

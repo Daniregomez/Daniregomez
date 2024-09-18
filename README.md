@@ -1,4 +1,4 @@
-# ¡Hola, mundo! 👋 Soy Daniel Restrepo
+# ¡Hola, mundo! Soy Daniel
 
 ## 💻 Desarrollador Full Stack | 📊 Ingeniero de Datos | 🚀 Innovador en Tecnología Financiera
 
@@ -20,7 +20,7 @@ tech_stack = {
     "Bases de Datos": ["PostgreSQL", "MySQL", "Redis", "SQL", "NoSQL"],
     "Cloud & DevOps": ["AWS", "Docker"],
     "Ingenieria de Datos": ["Pandas", "NumPy", "Matplotlib", "Dash", "Plotly", "Selenium", "BeatifulSoup"],
-    "Computacion Intensiva": ["Numba"]
+    "Computacion Intensiva": ["Numba"],
     "Desktop": ["PyQt"],
     "Herramientas": ["Git", "Slack", "Dbeaver", "Insomnia", "Visual Studio Code", "PyCharm", "Sentry", "Linux"]
 }

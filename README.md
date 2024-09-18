@@ -1,6 +1,6 @@
 # ¡Hola, mundo! Soy Daniel
 
-## 💻 Desarrollador Full Stack | 📊 Ingeniero de Datos | 🚀 Innovador en Tecnología Financiera
+## 💻 Desarrollador Full Stack/Backend | 📊 Ingeniero de Datos | 🚀 Desarrollador de software financiero, cuantitativo y algoritmico
 
 Ingeniero de Control convertido en apasionado desarrollador, 
 con un enfoque especial en crear soluciones tecnológicas que transforman datos complejos en información valiosa y accionable. 
